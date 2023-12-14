@@ -9,7 +9,7 @@ title: Logros
 
 ## Yo te apoyo
 
-Yo te apoyo fue una aplicación para dispositivos móviles con sistema operativo Android que desarrollé, en conjunto con mi mejor amiga, en la preparatoria con el que investigamos la capacidad de los chats, llamadas y videollamadas para reducir la depresión, ansiedad y estrés en nuestros usuarios. Por medio de la aplicación, pusimos en contacto a las personas que requierían ayuda psicológica con nuestra red de psicólogos, gracias a ello pudimos, en fases experimentales, ayudar a 20 personas a superar las afeciones, ello nos valió los siguientes logros: 
+Yo te apoyo fue una aplicación para dispositivos móviles con sistema operativo Android que desarrollé, en conjunto con mi mejor amiga, en la preparatoria con el que investigamos la capacidad de los chats, llamadas y videollamadas para reducir la depresión, ansiedad y estrés de nuestros usuarios. Por medio de la aplicación, pusimos en contacto a las personas que requierían ayuda psicológica con nuestra red de psicólogos, gracias a ello pudimos, en fases experimentales, ayudar a 20 personas a superar las afecciones, ello nos valió los siguientes logros: 
 1. 1er lugar estatal en el Concurso estatal de prototipos de la Dgeti 2021.
 2. Top 10 en el concurso nacional de prototipos de la Dgeti 2021.
 3. Acreditación a Expociencias Nacional 2021.
